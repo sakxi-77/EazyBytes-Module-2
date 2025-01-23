@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EazyBytes-Module-2/static/css/main.f0cddccf.css",
+    "main.js": "/EazyBytes-Module-2/static/js/main.16465668.js",
+    "index.html": "/EazyBytes-Module-2/index.html",
+    "main.f0cddccf.css.map": "/EazyBytes-Module-2/static/css/main.f0cddccf.css.map",
+    "main.16465668.js.map": "/EazyBytes-Module-2/static/js/main.16465668.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0cddccf.css",
+    "static/js/main.16465668.js"
+  ]
+}
